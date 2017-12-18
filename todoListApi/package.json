@@ -1,0 +1,19 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "restapi test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error\\\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "holomorfo",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4"
+  }
+}
